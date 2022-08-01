@@ -1,0 +1,31 @@
+
+body {
+    margin: 10px;
+    padding: 10px;
+}
+h2 {
+    color: red;
+}
+/* #userinput {
+} */
+#addButton {
+    background-color: green;
+}
+#removeCompleteButton {
+    background-color: yellow;
+}
+#removeAllButton {
+    background-color: red;
+}
+#userInput{
+    border: 2px solid blue;
+    width: 350px;
+}
+
+#removeTaskButton {
+    background-color: darkslategrey;
+}
+
+#editTaskButton {
+    background-color: blanchedalmond;
+} 
